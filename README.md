@@ -1,4 +1,4 @@
-# AssertJ jar classpath nested class problem exemple
+# AssertJ jar classpath nested class problem example
  
 ## Main Problem
 
