@@ -11,7 +11,7 @@ This code is looking only for top level classes and it ignores all nested classe
 
 In `test-compile` stage `tests` module classpath is: 
 `file:/.../assertj-jar-classpath-nested-class-problem/commons/target/target/classes/io/eroshenkoam/assertj`
-In this case classes loaded from jar classpath and we have the problem.
+In this case classes loaded from directory classpath.
 
 ### Not working configuration: 
 
